@@ -21,29 +21,29 @@
   </a>
   
   ## Getting Started
-      ### Prerequisites
-    		- npm
-    			```sh
-    			npm install npm@latest -g
-    			```
-    		### Installation
-    		1. Clone the repo
-    			 ```sh
-    			 git clone https://github.com/moonrafa/music-library
-    			 ```
-    		2. Install NPM packages
-    			 ```sh
-    			 npm install
-    			 or
-    			 yarn add
-    			 ```
-    		### Run
 
-    		```sh
-    		npm start
-    		or
-    		yarn start
-    		```
+  ### Prerequisites
+  - npm
+    ```sh
+    	npm install npm@latest -g
+    ```
+  ### Installation
+  1. Clone the repo
+        ```sh
+    	git clone https://github.com/moonrafa/music-library
+        ```
+  2. Install NPM packages
+      ```sh
+    	npm install
+    	or
+    	yarn add
+      ```
+  ### Run
+  ```sh
+    npm start
+    or
+    yarn start
+  ```
   ## Contact
   Rafaelly Rodrigues - rrafasrodrigues@gmail.com
   </br>

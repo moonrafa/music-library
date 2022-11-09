@@ -14,11 +14,6 @@
 
   - [![React][react.js]][react-url]
   - [![Tailwind CSS][tailwindcss]][tailwind-url]
-
-  ## Demo
-  <a href="#">
-    			<img src="assets/demo.png" alt="demo" >
-  </a>
   
   ## Getting Started
 
@@ -53,7 +48,7 @@
   [license-url]: https://github.com/moonrafa/music-library/LICENSE.txt
   [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
   [linkedin-url]: https://www.linkedin.com/in/moonrafa/
-  [demo]: assets/demo.png
+  [demo]: src/assets/demo.png
   [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
   [react-url]: https://reactjs.org/
   [tailwindcss]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
